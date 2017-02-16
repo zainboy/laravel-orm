@@ -1,2 +1,2 @@
-# laravel-orm
+# laravel-rest-test
 A simple restful api
